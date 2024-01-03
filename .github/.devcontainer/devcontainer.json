@@ -7,3 +7,14 @@
     "remoteUser": "codespace",
     "overrideCommand": false
   }
+  {
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
